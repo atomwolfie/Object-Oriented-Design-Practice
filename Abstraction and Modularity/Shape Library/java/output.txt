@@ -1,0 +1,6 @@
+Point 0.0 0.0
+Line 0.0 10.0 0.0 10.0 
+Line 0.0 10.0 0.0 10.0 
+Square 0.0 0.0 10.0
+Ellipse 0.0 0.0 10.0 10.0
+EmbeddedImage 0.0 0.0 700.0 700.0 bitmap-image-icon.bmp
